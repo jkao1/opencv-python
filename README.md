@@ -1,5 +1,5 @@
 # opencv-python
-
+spatiotemporal?
 ## 01 Image Loading
 ```python
 img = cv2.imread('file.png', cv2.IMREAD_GRAYSCALE) # reads image in grayscale
